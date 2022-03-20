@@ -48,12 +48,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Archives
+  - title:             Home
     url:               /
   - title:             Work Records
-    url:               /code/work
+    url:               /code/work/
   - title:             Open Source
-    url:               /code/opensource
+    url:               /code/opensource/
   - title:             Learning Notes
     url:               /code/notes       
   - title:             Life
