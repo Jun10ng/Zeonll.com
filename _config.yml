@@ -50,7 +50,7 @@ author:
 menu:
   - title:             Example
     url:               /example/
-  - title              Life
+  - title:             Life
      url:              /life/
   - title:             Documentation
     url:               /docs/
