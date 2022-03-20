@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Life
+title: 工作记录
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: Life
+slug: work
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  这里存放与代码无关，但是却高于代码的东西。
+  工作中做过的有意义的项目，或者是值得记录的踩坑经历。
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
