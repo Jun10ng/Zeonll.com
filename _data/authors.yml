@@ -15,11 +15,11 @@ author1:
 
   # This photo will be used in the about section
   picture:
-    path:            /assets/img/zeonll.png/128x128
+    path:            https://www.zeonll.com//assets/img/zeonll.png/128x128
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /assets/img/zeonll.png/128x128
-      2x:            /assets/img/zeonll.png/256x256
+      1x:            https://www.zeonll.com//assets/img/zeonll.png/128x128
+      2x:            https://www.zeonll.com//assets/img/zeonll.png/256x256
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
