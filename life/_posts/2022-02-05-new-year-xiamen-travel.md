@@ -7,11 +7,6 @@ sitemap: false
 image:
   path:
     /assets/img/blog/2022-new-year-xiamen-travel/l.jpeg
-    /assets/img/blog/2022-new-year-xiamen-travel/lang.jpeg
-    /assets/img/blog/2022-new-year-xiamen-travel/qian.jpeg
-    /assets/img/blog/2022-new-year-xiamen-travel/xiamen-metro.jpeg
-    /assets/img/blog/2022-new-year-xiamen-travel/yello.jpeg
-    /assets/img/blog/2022-new-year-xiamen-travel/yum.jpeg
   
 hide_last_modified: true
 ---
