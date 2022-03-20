@@ -51,7 +51,7 @@ menu:
   - title:             Example
     url:               /example/
   - title:             Life
-     url:              /life/
+    url:              /life/
   - title:             Documentation
     url:               /docs/
   - title:             About
