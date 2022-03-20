@@ -4,6 +4,15 @@ title: 2022 春节假期厦门游
 description: >
   趁着春节假期出去旅游，体验感很棒，远超十一黄金周～
 sitemap: false
+image:
+  path:
+    /assets/img/blog/2022-new-year-xiamen-travel/l.jpeg
+    /assets/img/blog/2022-new-year-xiamen-travel/lang.jpeg
+    /assets/img/blog/2022-new-year-xiamen-travel/qian.jpeg
+    /assets/img/blog/2022-new-year-xiamen-travel/xiamen-metro.jpeg
+    /assets/img/blog/2022-new-year-xiamen-travel/yello.jpeg
+    /assets/img/blog/2022-new-year-xiamen-travel/yum.jpeg
+  
 hide_last_modified: true
 ---
 
@@ -24,12 +33,12 @@ hide_last_modified: true
 
 传说中的厦门海景高铁，和千与千寻里的海上高铁神之相似。
 
-![1](./1-line.png)
-![qian](./qian.jpeg)
+![1](/assets/img/blog/2022-new-year-xiamen-travel/1-line.png)
+![qian](/assets/img/blog/2022-new-year-xiamen-travel/qian.jpeg)
 
 忘记拍一号线地铁窗外海景图了，只拍了车厢内和女友的合照哈哈哈哈。
 
-![metro](./xiamen-metro.jpeg)
+![metro](/assets/img/blog/2022-new-year-xiamen-travel/xiamen-metro.jpeg)
 
 
 二十九晚上去中山路逛了逛，人少真好啊，低配香榭丽大街，就是手上的海蛎煎很出戏。
@@ -50,18 +59,18 @@ hide_last_modified: true
 
 即使是环屿观看，鼓浪屿也十分秀美，配上解说员的讲解，各个景点应接不暇。
 
-![yu](./lang.jpeg)
+![yu](/assets/img/blog/2022-new-year-xiamen-travel/lang.jpeg)
 
 下了船后，我们去了环岛南路旁的沙滩，看了会儿海浪，还写下了被海浪冲走的“爱的誓言”，以及沿着环岛南路骑了会儿双人自行车，太像双人成行了，哈哈哈。
-![meng](./yum.jpeg)
+![meng](/assets/img/blog/2022-new-year-xiamen-travel/yum.jpeg)
 
 
 然后去了厦大附近的沙坡尾，给女朋友买了顶可爱的帽子。
-![yello](./yello.jpeg)
+![yello](/assets/img/blog/2022-new-year-xiamen-travel/yello.jpeg)
 
 在酒店点了份，“闽菜年夜饭”，很合我们胃口，吃完年夜饭后，我和女友打着伞在雨夜中散步，街上的小店也都关了，各种小区高楼暗呼呼的，估计也都回老家了, 
 真的是十不留一。
-![lou](./l.jpeg)
+![lou](/assets/img/blog/2022-new-year-xiamen-travel/l.jpeg)
 我在这里在祝大家新春快乐，拜个晚年。
 
 > ps: 大年三十的游记写于观看春晚之际，不得不吐槽，今年春晚的小品真烂啊！烂得出乎意料。、
