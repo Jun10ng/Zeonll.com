@@ -5,8 +5,6 @@ description: >
   A boutique Jekyll theme for hackers, nerds, and academics,
   with a focus on personal sites that are meant to impress.
 hide_description: true
-redirect_from:
-  - /download/
 ---
 ## About me.
 Hi there, I am Zeonll who works and lives in Shenzhen and try to get out there.
@@ -26,5 +24,5 @@ In 2019, I worked as an intern at Luckin Coffee Network Security Group.
 From 2020/07 to the present, I have been working at ShenZhen Shopee where has a lot of excellent colleagues worthy I study, and I like Shopee's management and work culture. But since the beginning of 2021, Shopee expand its workforce, the work-life balance work culture is slowly decaying.
 
 
-## At the End
+## At the end
 You can contact me through Email/WeChat. If you want to refer/hire me, get my resume feel free.
