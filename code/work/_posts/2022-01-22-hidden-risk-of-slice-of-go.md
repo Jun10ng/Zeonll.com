@@ -10,6 +10,7 @@ image:
     530w:  /assets/img/blog/example-content-iii@0,5x.jpg
     265w:  /assets/img/blog/example-content-iii@0,25x.jpg
 sitemap: true
+comments: true
 ---
 
 ## Slice length was reset after appending.
