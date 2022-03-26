@@ -183,6 +183,14 @@ kramdown:
 # pages with `comments: true` in the front matter.
 # disqus:                <username>
 
+giscus:
+  repo:                "Jun10ng/Zeonll.com"
+  repo-id:             "R_kgDOHCGfXQ"
+  category:            "Comments"
+  mapping:             "pathname"
+  reaction-enabled:    "1"
+  theme:               "light"
+  crossorigin:         "anonymous"
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
 # tinyletter:            <username>
