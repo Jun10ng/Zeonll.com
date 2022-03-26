@@ -10,6 +10,7 @@ image:
     530w:  /assets/img/blog/example-content-iii@0,5x.jpg
     265w:  /assets/img/blog/example-content-iii@0,25x.jpg
 sitemap: true
+comments: true
 ---
 
 当你使用公司内部的”开源“组件时，千万要做好调研工作和心理准备，尤其是当你是第一个接入的勇者！

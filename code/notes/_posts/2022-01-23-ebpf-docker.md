@@ -6,6 +6,8 @@ image:
 description: >
   不是简单就是了，有着时间不如使用 Vagrantfile
 sitemap: false
+comments: true
+
 ---
 
 [Here is Github resp.](https://github.com/Jun10ng/ebpf-for-desktop)
