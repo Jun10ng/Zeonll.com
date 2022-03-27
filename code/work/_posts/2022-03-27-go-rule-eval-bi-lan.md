@@ -5,18 +5,12 @@ description: >
     去年年末，PM在线上发现了一个不小的资损问题，正好那周是我在值班，于是上头就安排我处理相关事宜，并思考如何监控类似情况再次方式。
     由于之前没接触过这类事件，整个思考的过程和前辈们给的经验都让我受益颇深，在这里记录下。
 
-    整个系统应该会分为四章吧：
-        - 规则引擎调研
-        - 基于消息的实时资损监控系统设计
-        - 上下游资金离线核对系统设计
-        - 屎山代码重构（这个不确定会不会写）
-
 image: 
-  path: /assets/img/blog/example-content-i.jpg
+  path: /assets/img/blog/example-content-ii.jpg
   srcset:
-    1060w: /assets/img/blog/example-content-i.jpg
-    530w:  /assets/img/blog/example-content-i@0,5x.jpg
-    265w:  /assets/img/blog/example-content-i@0,25x.jpg
+    1060w: /assets/img/blog/example-content-ii.jpg
+    530w:  /assets/img/blog/example-content-ii@0,5x.jpg
+    265w:  /assets/img/blog/example-content-ii@0,25x.jpg
 sitemap: true
 comments: true
 ---
