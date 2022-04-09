@@ -9,7 +9,7 @@ comments: true
 ---
 
 这篇文章最早发表于[SofaStack公众号](https://mp.weixin.qq.com/s?__biz=MzUzMzU5Mjc1Nw==&mid=2247504968&idx=1&sn=4f7034cd1732860e3ca6b808f6ad7d53&chksm=faa33b92cdd4b28471859a646f1eb8be8db65853711aedbdb1cd9932f6fce89939036074527a&token=762757837&lang=zh_CN#rd)
-存档一份到个人博客上，持续更新并添加更多的使用细节。如果对holmes已经有一定了解的，可以直接点击下面链接跳转到对应章节：
+存档一份到个人博客上，持续更新并添加更多的使用细节。如果对holmes已经有一定了解的，可以直接点击下面链接跳转到实际使用章节：
 
 * [落地案例](#落地案例)
 * [对接apollo](#对接apollo)
