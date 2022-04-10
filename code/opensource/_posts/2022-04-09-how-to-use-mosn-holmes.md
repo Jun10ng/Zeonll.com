@@ -10,6 +10,7 @@ comments: true
 
 这篇文章最早发表于[SofaStack公众号](https://mp.weixin.qq.com/s?__biz=MzUzMzU5Mjc1Nw==&mid=2247504968&idx=1&sn=4f7034cd1732860e3ca6b808f6ad7d53&chksm=faa33b92cdd4b28471859a646f1eb8be8db65853711aedbdb1cd9932f6fce89939036074527a&token=762757837&lang=zh_CN#rd)
 存档一份到个人博客上，持续更新并添加更多的使用细节。如果对holmes已经有一定了解的，可以直接点击下面链接跳转到实际使用章节：
+
 [落地案例](#落地案例)
 
 [对接apollo](#对接apollo)
@@ -23,7 +24,7 @@ comments: true
 ### 使用场景
 
 对于系统的性能尖刺问题，我们通常使用 Go 官方内置的 pprof 包进行分析，但是难点是对于一闪而过的“尖刺”，开发人员很难及时保存现场：
-** 当你收到告警信息，从被窝中爬起来，打开电脑链接 VPN，系统说不定都已经重启三四趟了。**
+**当你收到告警信息，从被窝中爬起来，打开电脑链接 VPN，系统说不定都已经重启三四趟了。**
 
 MOSN 社区的 holmes 是一个基于 Golang 实现的轻量级性能监控系统，当应用的性能指标发生了异常波动时，
 holmes 会在第一时间保留现场，让你第二天上班可以一边从容地喝着枸杞茶，一边追查问题的根因。
@@ -81,7 +82,7 @@ holmes 作为性能排查工具，核心功能是及时发现性能指标异常�
 
 `holmes`每隔一段时间采集应用各项指标，并使用一个固定大小的循环链表来存储它们。
 
-![ring](./ring.png)
+![ring](./assets/img/blog/holmes/ring.png)
 
 ### 根据`GC`周期采集
 
@@ -164,7 +165,7 @@ holmes 作为性能排查工具，核心功能是及时发现性能指标异常�
 
 具体架构如下:
 
-![system](./system.png)
+![system](./assets/img/blog/holmes/system.png)
 
 ### 对接Apollo
 
