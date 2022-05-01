@@ -332,5 +332,5 @@ func (m MyReporter) Report(pType string, buf []byte, reason string, eventID stri
 - [《go 语言 pprof heap profile 实现机制》](https://uncledou.site/2022/go-pprof-heap/)
 - [《goroutines pprofiling STW》](https://github.com/golang/go/issues/33250)
 - [《holmes使用案例文档》](https://github.com/mosn/holmes/tree/master/example)
-- [《go pprof 性能损耗》](https://medium.com/google-cloud/continuous-profiling-of-go-programs-96d4416af77b
+- [《go pprof 性能损耗》](https://medium.com/google-cloud/continuous-profiling-of-go-programs-96d4416af77b)
 
