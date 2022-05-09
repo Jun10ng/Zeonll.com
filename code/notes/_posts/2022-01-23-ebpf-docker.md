@@ -4,7 +4,7 @@ title: 如何在MacOS/Win上构建能跑eBPF的Docker镜像
 image: 
   path: /assets/img/blog/jeremy-bishop@0,5x.jpg
 description: >
-  不是简单就是了，有着时间不如使用 Vagrantfile
+  不是简单就是了，有这时间不如使用 Vagrantfile
 sitemap: false
 comments: true
 

@@ -3,7 +3,7 @@ layout: post
 title: MOSN Holmes 使用
 description: >
   如何使用holmes监控线上系统
-image: /assets/img/blog/example-content-ii.jpg
+image: /assets/img/blog/example-content-iii.jpg
 sitemap: false
 comments: true
 ---
