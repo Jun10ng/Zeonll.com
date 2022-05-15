@@ -1,15 +1,10 @@
 ---
 layout: post
-title: 资损监控系统搭建（二）: 基于消息的实时旁路资损监控系统设计
+title: 资损监控系统搭建（二）:基于消息的实时旁路资损监控系统设计
 description: >
     简单低廉的内部方案，快速发现并及时止损，有优有劣。
-
 image: 
   path: /assets/img/blog/bypass-logic.jpg
-  srcset:
-    1060w: /assets/img/blog/bypass-logic.jpg
-    530w:  /assets/img/blog/bypass-logic@0,5x.jpg
-    265w:  /assets/img/blog/bypass-logic@0,25x.jpg
 sitemap: true
 comments: true
 ---
