@@ -45,7 +45,7 @@ comments: true
 
 ## 逻辑架构
 如下图：
-[!img](/assets/img/blog/bypass-logic.jpg)
+![img](/assets/img/blog/bypass-logic.jpg)
 
 
 ## 物理架构
@@ -77,7 +77,7 @@ rule "cate1-cate2-cate3"
 全品类校验规则单独一个namespace，存放通用校验规则，如总价格字段不为负数等。
 一级品类校验规则各自一个namespace，如果某个二级品类所需规则比较多，也可以将二级品类的规则再剥离出来。
 
-[!img](/assets/img/blog/bypass-msg.jpg)
+![img](/assets/img/blog/bypass-msg.jpg)
 
 
 
