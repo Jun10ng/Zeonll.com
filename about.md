@@ -9,7 +9,7 @@ hide_description: true
 Hi there, I am Zeonll who works and lives in Shenzhen.
 
 Why I build this blog?
-I hope three was a place that I could write things I learn from daily work, such as how I solve a business problem through the variety of middleware.
+I hope there was a place that I could write things I learn from daily work, such as how I solve a business problem through the variety of middleware.
 
 
 ## My experience
