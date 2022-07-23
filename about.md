@@ -24,4 +24,4 @@ From 2020/07 to the present, I have been working at ShenZhen Shopee where has a 
 
 
 ## At the end
-You can contact me through Email/WeChat. If you want to refer/hire me, get my resume feel free.
+You can contact me through Email/WeChat.
